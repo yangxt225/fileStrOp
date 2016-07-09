@@ -1,0 +1,3 @@
+Line0:this is my C++ file test;
+read str form strData.in file;
+Line3:and output to strData.out file;
